@@ -1,16 +1,23 @@
-### Hi there 👋
+<p align="center">
+  <img width="140" src="https://user-images.githubusercontent.com/88405126/220180730-3b4fa98a-4dd2-4945-9f48-c1c980b93b12.jpeg" />
+  <h2 align="center">KINTK</h2>
+  <p align="center">Designer | Shutterbug | DJ</p>
+</p>
 
-<!--
-**Kinisnotthatking/Kinisnotthatking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Hello there! 
 
-Here are some ideas to get you started:
+I'm a multidisciplinary creative with a passion for design 🎨, photography 📸, and music🎧.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 With experience in graphic design, industrial design, and UI/UX design, and comfortable with basic web development tools such as HTML, CSS, and JavaScript, I'm always exploring new creative outlets. Currently, I'm diving into the exciting world of P5.js, using code to create fascinating and challenging images. 🌟
+
+📷 As a photographer and shutterbug, I love to capture moments and memories through my lens, and share them with the world. 📷
+
+🎵 As a DJ, I'm constantly exploring new sounds and styles to get the party started. 🎶
+
+🌲 In my free time, I enjoy staying active by working out, hiking, and camping. 🏋️‍♂️🏕️
+
+🍸 I'm also an amateur bartender and love to mix up cocktails for my friends. 🍹
+
+🎨 Finally, I'm always on the lookout for the latest art exhibitions and shows to expand my creative horizons. 🎭
+
+🌈 A fun fact about me is that I am an ENFJ, passionate about social connections and creative collaboration. I am also proud to be gay, and advocate for inclusion and diversity in all aspects of life. 🏳️‍🌈
