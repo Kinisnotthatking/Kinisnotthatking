@@ -21,3 +21,12 @@ I'm a multidisciplinary creative with a passion for design 🎨, photography �
 🎨 Finally, I'm always on the lookout for the latest art exhibitions and shows to expand my creative horizons. 🎭
 
 🌈 A fun fact about me is that I am an ENFJ, passionate about social connections and creative collaboration. I am also proud to be gay, and advocate for inclusion and diversity in all aspects of life. 🏳️‍🌈
+
+---
+
+<h3 align="center">🛠 Skills & Expertise</h3>
+
+### Technology
+
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
