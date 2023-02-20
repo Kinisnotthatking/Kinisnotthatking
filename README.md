@@ -24,11 +24,18 @@ I'm a multidisciplinary creative with a passion for design 🎨, photography �
 
 ---
 
-<h3 align="center">🛠 Skills & Expertise</h3>
+<p align="left"> 
+  <h3>📖 Recent Blogs</h3> 
+  <a href="https://kintk.notion.site/From-Fitness-to-Anti-Aging-2a83a0e3d6f84fc6992a658814e930dc">A Comprehensive Guide for Men - Integrating Fitness, Nutrition, and Skincare Strategies</a>
+  <h3>Recent P5.js Project</h3>
+  <a href="https://editor.p5js.org/Kinisnotthatking/full/5wo2nShWd">Dream Sunset</a>
+</p>
 
-### Technology
+---
+
+<h3>🛠 Skills & Expertise</h3>
 
 <p align="left"> <a href="https://serato.com"> <img src="https://i.pinimg.com/originals/67/d9/76/67d9761bd80403707564d1bd753ea923.png" alt="Serato DJ" width="30" height="30"> </a> <a href="https://www.solidworks.com"> <img src="https://softwarelist.oregonstate.edu/sites/softwarelist.oregonstate.edu/files/styles/software_image/public/software/solidworks.png" alt="SolidWorks" width="30" height="30"> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="30" height="30"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30" height="30"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="30" height="30"/> </a> </p>
 
-### Bilingual
+### 🗣️ Bilingual
 <img src="https://img.shields.io/badge/English-Working%20Proficiency-brightgreen"> <img src="https://img.shields.io/badge/Chinese-Native%20Speaker-blue">
