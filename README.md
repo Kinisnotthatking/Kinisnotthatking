@@ -29,6 +29,8 @@ I'm a multidisciplinary creative with a passion for design ðŸŽ¨, photography ðŸ“
   <a href="https://kintk.notion.site/From-Fitness-to-Anti-Aging-2a83a0e3d6f84fc6992a658814e930dc">A Comprehensive Guide for Men - Integrating Fitness, Nutrition, and Skincare Strategies</a>
   
   <a href="https://kintk.notion.site/The-Murdered-Masculinity-8b6710a7553d468fa9cf9d4fa68bf6fb">The Murdered Masculinity - Film Review of The Power of the Dog</a>
+  
+  <a herf="https://kintk.notion.site/Questions-and-Answers-a9e9a7115c48438fa30c414bcb89d9b0">Questions and Answers - Film Review of The Man with the Answers</a>
  <h3>Recent P5.js Project</h3>
   <a href="https://editor.p5js.org/Kinisnotthatking/full/5wo2nShWd">Dream Sunset</a>
 </p>
