@@ -25,7 +25,7 @@ I'm a multidisciplinary creative with a passion for design 🎨, photography �
 ---
 
 <p align="left"> 
-  <h3>📖 Recent Blogs</h3> 
+  <h3>📖 Genius Blogs</h3> 
 <ul>
   <li><a href="https://kintk.notion.site/From-Fitness-to-Anti-Aging-2a83a0e3d6f84fc6992a658814e930dc">A Comprehensive Guide for Men - Integrating Fitness, Nutrition, and Skincare Strategies</a></li>
   <li><a href="https://kintk.notion.site/The-Murdered-Masculinity-8b6710a7553d468fa9cf9d4fa68bf6fb">The Murdered Masculinity - Film Review of The Power of the Dog</a></li>
