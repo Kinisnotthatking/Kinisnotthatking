@@ -27,6 +27,7 @@ I'm a multidisciplinary creative with a passion for design 🎨, photography �
 <p align="left"> 
   <h3>📖 Genius Blogs</h3> 
 <ul>
+  <li><a href="https://kintk.notion.site/Love-Between-Two-Pineapples-c7fe3ceb6a664e5cb37c95b920af11af">Love Between Two Pineapples - Film Review of Hawaii</a></li>
   <li><a href="https://kintk.notion.site/From-Fitness-to-Anti-Aging-2a83a0e3d6f84fc6992a658814e930dc">A Comprehensive Guide for Men - Integrating Fitness, Nutrition, and Skincare Strategies</a></li>
   <li><a href="https://kintk.notion.site/The-Album-You-Don-t-Want-to-Miss-Loving-Life-by-Dabeull-Sofiane-Pamart-867e965744d249de9735e1b9c3f5efe8">The Album You Don’t Want to Miss - Loving Life by Dabeull & Sofiane Pamart</a></li>
   <li><a href="https://kintk.notion.site/The-Murdered-Masculinity-8b6710a7553d468fa9cf9d4fa68bf6fb">The Murdered Masculinity - Film Review of The Power of the Dog</a></li>
